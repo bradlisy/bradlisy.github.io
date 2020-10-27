@@ -1,16 +1,54 @@
-# Modernist Theme
+## 我的个人博客
 
-[Demo the Theme](http://orderedlist.github.com/modernist/)
+[![Build Status](https://travis-ci.org/gd4Ark/gd4Ark.github.io.svg?branch=hexo)](https://travis-ci.org/gd4Ark/gd4Ark.github.io)
+![GitHub](https://img.shields.io/github/license/gd4ark/gd4Ark.github.io)
 
-This is the raw HTML and styles that are used for the *modernist* theme on [GitHub Pages](http://pages.github.com/).
+基于 Hexo [Polarbear](https://github.com/frostfan/hexo-theme-polarbear) 主题改造，进行了如下扩展：
 
-# SCSS
+1. 添加文章目录
+2. 首页文章列表显示摘要
+3. 使用 Hexo-abbrlink 进行文章链接持久化
+4. 文章底部自动添加版权信息
+5. 支持评论插件（ Gitment 和 Gitalk）
+6. 加入了另一个代码高亮插件：Code-prettify
+7. 一些样式的优化
+8. 增加友情链接
 
-This project uses SCSS for it's CSS. If you want to contribute, please make your changes to the .scss files in the /sass directory. If you're unfamiliar with SCSS, here's [an excellent article to get you started](http://www.alistapart.com/articles/getting-started-with-sass/). I recommend using [LiveReload](http://livereload.com)
+## 预览
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+在线预览：[4ark’ Blog](https://4ark.me)
 
-# License
+![](https://i.loli.net/2019/06/20/5d0afcac1804e11572.png)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+## 一些问题
 
+### 1. 添加文章摘要
+
+在`md`文件中这样添加：
+
+```markdown
+/_ 文章信息 _/
+
+<div class="excerpt">
+    这里写你的文章摘要，只会在首页展示，进入文章页后自动隐藏。
+</div>
+
+<!-- more -->
+
+/_ 文章内容 _/
+```
+
+### 2. 评论插件
+
+在`themes\polarbear\_config.yml`下可以找到配置信息。
+
+## 安装使用（Installation）
+
+```shell
+git clone https://github.com/gd4Ark/gd4Ark.github.io.git
+npm install
+```
+
+## 最后
+
+如果觉得我的项目还不错的话 👏 ，就给个 star ⭐ 鼓励一下吧~

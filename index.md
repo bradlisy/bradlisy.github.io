@@ -13,8 +13,6 @@ Development of advanced electromagnetic dampers capable of simultaneous energy h
 - **Energy Harvesting**
 Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
 
-![Research Topics](ResearchTopics.jpg "Title")
-
 ---
 
 ## Scholarly Writing
@@ -28,7 +26,6 @@ Development of advanced electromagnetic dampers capable of simultaneous energy h
 ### Online content: <br>
 Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 videos each and convey the most important aspects of each topic.
 <br>
-[![Youtube Videos](teaching.jpg "Title")](https://www.youtube.com/user/amirali23/playlists?view_as=subscriber)
 <br><br>
 ### Teaching history:
 - Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)

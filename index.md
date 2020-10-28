@@ -1,38 +1,32 @@
 ## Research Interests
 
-Amirali is a Ph.D. candidate at the <a href="https://sstl.cee.illinois.edu/"> Smart Structures Technology Laboratory</a> at the University of Illinois at Urbana-Champaign, working with <a href="https://cee.illinois.edu/professor-billie-f-spencer">Dr. Billie F. Spencer</a>. His research focuses on: <br><br>
-(1) Development of advanced experimental techniques for characterization of innovative and sustainable materials and structures, <br>
-(2) Autonomous rapid damage assessment techniques based on latest structural health monitoring sensing technologies, and <br>
-(3) Artificial intelligence solutions such as machine learning, computer vision, and big data analytics used for off-line high-performance modeling and simulation, and long-term prognosis of slow evolving but accumulating damage.
+Dr. LI, Jin-Yang (李锦阳) is currently a PostDoc working with <a href="https://songyezhu.wixsite.com/mysite">Prof. Songye ZHU</a>.
+He obtained both his Bachalor (2014) and Ph.D. degrees (2020) from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a>.
+
+Research Interests: <br>
+- **Smart Electromagnetic Dampers**
+Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features. Authentic self-powered active control.
+
+- **Energy Harvesting**
+Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
+
+- **Energy Harvesting**
+Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
 
 ![Research Topics](ResearchTopics.jpg "Title")
 
 ---
 
 ## Scholarly Writing
-Research Interests: <br>
-- **<font color=green size=2.5>Smart Electromagnetic Dampers</a>**<font color=black size=2>
-Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features. Authentic self-powered active control.
-
-- **<font color=green size=2.5>Energy Harvesting**<font color=black size=2>
-Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
-
-- **<font color=green size=2.5>Energy Harvesting**<font color=black size=2>
-Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
-
-
-* **Li JY**, Zhu S, Shi X, and Shen W, "Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study", *Journal of Structural Engineering*, 2020. [<a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">10.1061/(ASCE)ST.1943-541X.0002477</a>]
-
-* **Li JY**, Zhu S, and Shen J, "Enhance the damping density of eddy current and electromagnetic dampers", *Smart Structures and Systems*, 2019. [<a href="https://doi.org/10.12989/sss.2019.24.1.015">10.12989/sss.2019.24.1.015 </a>]
-
-* **Li JY** and Zhu S, "Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Converter", *IEEE / ASME Transactions on Mechatronics*, 2018. [<a href="https://ieeexplore.ieee.org/document/8309311">10.1109/TMECH.2018.2813307 </a>]
-
-* Shi X, Zhu S, **Li JY**, and Spencer BF, "Dynamic behavior of stay cables with passive negative stiffness dampers", *Smart Materials and Structures*, 2016. [<a href="https://iopscience.iop.org/article/10.1088/0964-1726/25/7/075044/meta">10.1088/0964-1726/25/7/075044/meta </a>]
+- A. Najafi, B.F. Spencer, "Modified model-based control of shake tables for online acceleration tracking", Earthquake Engineering and Structural Dynamics, 2020. Available: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/eqe.3326"> 10.1002/eqe.3326</a>
+- A. Najafi, G.A. Fermandois, B.F. Spencer, "Decoupled model-based real-time hybrid simulation with multi-axial load and boundary condition boxes", Engineering Structures, vol. 219, 2020. Available:<a href="https://www.sciencedirect.com/science/article/pii/S0141029619344219"> 10.1016/j.engstruct.2020.110868</a>
+- A. Najafi and B.F. Spencer, "Validation of model-based real-time hybrid simulation for a lightly-damped and highly-nonlinear structural system", Journal of Applied and Computational Mechanics, vol. 7, 2020. Available:<a href="http://jacm.scu.ac.ir/article_15427_0.html"> 10.22055/JACM.2020.32584.2039</a>
+- A. Najafi and B.F. Spencer, "Adaptive model reference control method for real-time hybrid simulation", Mechanical Systems and Signal Processing, vol. 132, pp. 183-193, 2019. Available: <a href="https://www.sciencedirect.com/science/article/pii/S0888327019304066"> 10.1016/j.ymssp.2019.06.023</a>
 
 ---
 ## Teaching
 ### Online content: <br>
-Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 videos each and convey the most important aspects of each topic. 
+Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 videos each and convey the most important aspects of each topic.
 <br>
 [![Youtube Videos](teaching.jpg "Title")](https://www.youtube.com/user/amirali23/playlists?view_as=subscriber)
 <br><br>

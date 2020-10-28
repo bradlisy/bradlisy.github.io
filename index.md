@@ -4,7 +4,7 @@
 He obtained both his Bachalor (2014) and Ph.D. degrees (2020) from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU</a>.
 
 Research Interests: <br><br>
-- **<font color=green size=2.5>Smart Electromagnetic Dampers**<font color=black size=2>
+- **<font color=green size=2.5>Smart Electromagnetic Dampers</a>**<font color=black size=2>
 Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features. Authentic self-powered active control.
 
 - **<font color=green size=2.5>Energy Harvesting**<font color=black size=2>

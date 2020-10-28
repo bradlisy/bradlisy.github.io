@@ -3,15 +3,6 @@
 <font color=black size=3> Dr. LI, Jin-Yang (李锦阳) is currently a PostDoc working with <a href="https://songyezhu.wixsite.com/mysite">Prof. Songye ZHU</a>.
 He obtained both his Bachalor (2014) and Ph.D. degrees (2020) from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU</a>.
 
-Research Interests: <br><br>
-- **<font color=green size=2.5>Smart Electromagnetic Dampers</a>**<font color=black size=2>
-Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features. Authentic self-powered active control.
-
-- **<font color=green size=2.5>Energy Harvesting**<font color=black size=2>
-Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
-
-- **<font color=green size=2.5>Energy Harvesting**<font color=black size=2>
-Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
 
 His research focuses on: <br><br>
 (1) Development of advanced experimental techniques for characterization of innovative and sustainable materials and structures, <br>

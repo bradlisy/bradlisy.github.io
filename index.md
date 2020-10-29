@@ -16,7 +16,7 @@ Reinforced learning can be combined with smart damps catering for complex or unk
 
 ---
 
-## Scholarly Writing
+## Journal
 * **Li JY**, Zhu S, Shi X, and Shen W, "Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study", *Journal of Structural Engineering*, 2020. [<a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">10.1061/(ASCE)ST.1943-541X.0002477</a>]
 * **Li JY**, Zhu S, and Shen J, "Enhance the damping density of eddy current and electromagnetic dampers", *Smart Structures and Systems*, 2019. [<a href="https://doi.org/10.12989/sss.2019.24.1.015">10.12989/sss.2019.24.1.015 </a>]
 * **Li JY** and Zhu S, "Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Converter", *IEEE / ASME Transactions on Mechatronics*, 2018. [<a href="https://ieeexplore.ieee.org/document/8309311">10.1109/TMECH.2018.2813307 </a>]

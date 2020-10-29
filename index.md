@@ -30,7 +30,6 @@ China Invention Patent No.: <a href="https://patents.google.com/patent/CN1083172
 
 ---
 ## Awards
-### Online content: <br>
 * Research Student Attachment Programme Scholarship (2017)	
 * HKSAR Government Scholarship Fund 2016/17 – Reaching Out Award (ROA) (2016)
 * ICE Papers Competition - Award of Merit (Structural and Materials section) (2014)

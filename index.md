@@ -7,11 +7,11 @@ He obtained both his Bachalor (2014) and Ph.D. degrees (2020) from <a href="http
 He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-supervised by <a ref="https://cee.illinois.edu/directory/profile/bfs"> Prof. B.F. Spencer </a>.
 
 Research Interests: <br>
-- **Self-powered Electromagnetic Dampers**
+- **Self-powered Electromagnetic Dampers** <br>
 Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features.
-- **Energy Harvesting Techniques**
+- **Energy Harvesting Techniques** <br>
 
-- **Smart Control and Reinforced Learning**
+- **Smart Control and Reinforced Learning** <br>
 Reinforced learning can be combined with smart damps catering for complex or unknown structures.
 
 ---
@@ -25,8 +25,8 @@ Reinforced learning can be combined with smart damps catering for complex or unk
 ---
 
 ## Patent
-* Electromagnetic shunt dampers with adjustable mechanical behavior (一种力学行为可变的电磁分流阻尼器)
-China Invention Patent No.: CN108317206B  Grant Date: 10 Dec 2019
+* Electromagnetic shunt dampers with adjustable mechanical behavior (一种力学行为可变的电磁分流阻尼器)<br>
+China Invention Patent No.: <a href="https://patents.google.com/patent/CN108317206B">CN108317206B </a>  Grant Date: 10 Dec 2019
 
 ---
 ## Awards

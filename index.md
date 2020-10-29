@@ -1,17 +1,18 @@
 ## Research Interests
 
 Dr. LI, Jin-Yang (李锦阳) is currently a PostDoc working with <a href="https://songyezhu.wixsite.com/mysite">Prof. Songye ZHU</a>.
-He obtained both his Bachalor (2014) and Ph.D. degrees (2020) from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a>.
+<br>
+He obtained both his Bachalor (2014) and Ph.D. degrees (2020) from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a>. 
+<br>
+He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-supervised by <a ref="https://cee.illinois.edu/directory/profile/bfs"> Prof. B.F. Spencer </a>.
 
 Research Interests: <br>
-- **Smart Electromagnetic Dampers**
-Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features. Authentic self-powered active control.
+- **Self-powered Electromagnetic Dampers**
+Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features.
+- **Energy Harvesting Techniques**
 
-- **Energy Harvesting**
-Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
-
-- **Energy Harvesting**
-Development of advanced electromagnetic dampers capable of simultaneous energy harvesting and actuation features
+- **Smart Control and Reinforced Learning**
+Reinforced learning can be combined with smart damps catering for complex or unknown structures.
 
 ---
 
@@ -22,12 +23,16 @@ Development of advanced electromagnetic dampers capable of simultaneous energy h
 * Shi X, Zhu S, **Li JY**, and Spencer BF, "Dynamic behavior of stay cables with passive negative stiffness dampers", *Smart Materials and Structures*, 2016. [<a href="https://iopscience.iop.org/article/10.1088/0964-1726/25/7/075044/meta">10.1088/0964-1726/25/7/075044/meta </a>]
 
 ---
-## Teaching
+
+## Patent
+* Electromagnetic shunt dampers with adjustable mechanical behavior (一种力学行为可变的电磁分流阻尼器)
+China Invention Patent No.: CN108317206B  Grant Date: 10 Dec 2019
+
+---
+## Awards
 ### Online content: <br>
-Amirali has developed three online courses on intermediate and advance level structural engineering topics. These online courses are comprised of 10 videos each and convey the most important aspects of each topic.
-<br>
-<br><br>
-### Teaching history:
-- Course instructor: CEE360 - Introduction to Structural Engineering (Spring 2018)
-- Teaching assistant: CEE472 - Structural Dynamics (Fall 2017 & Fall 2019)
-<br><br>
+* Research Student Attachment Programme Scholarship (2017)	
+* HKSAR Government Scholarship Fund 2016/17 – Reaching Out Award (ROA) (2016)
+* ICE Papers Competition - Award of Merit (Structural and Materials section) (2014)
+* FCE Outbound Exchange Scholarship (2012)
+

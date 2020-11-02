@@ -7,12 +7,11 @@ He obtained both his Ph.D. (2020) and Bachalor (2014) degrees from <a href="http
 He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-supervised by <a href="https://cee.illinois.edu/directory/profile/bfs"> Prof. B.F. Spencer</a> bewteen 2017-18.
 
 Research Interests: <br>
-- **Self-powered Electromagnetic Dampers** <br>
-Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features.
-- **Energy Harvesting Techniques** <br>
-
+- **Smart Electromagnetic Dampers** <br>
+Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features.<br>
+Self-powered active EMD.<br>
 - **Smart Control and Reinforced Learning** <br>
-Reinforced learning can be combined with smart damps catering for complex or unknown structures.
+Reinforced learning can be combined with smart dampers catering for complex or unknown structures or inputs.
 
 ---
 

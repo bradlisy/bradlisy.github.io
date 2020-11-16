@@ -1,9 +1,9 @@
 ## Research Interests
 
 LI, Jin-Yang (李锦阳) is currently a PostDoc working with <a href="https://songyezhu.wixsite.com/mysite">Prof. Songye ZHU</a>.
-<br>
+<br><br>
 He obtained both his Ph.D. (2020) and Bachalor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a> supervised by <a href="https://songyezhu.wixsite.com/mysite">Prof. Songye ZHU</a>.
-<br>
+<br><br>
 He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-supervised by <a href="https://cee.illinois.edu/directory/profile/bfs"> Prof. B.F. Spencer</a> bewteen 2017-18.
 
 Research Interests: <br>

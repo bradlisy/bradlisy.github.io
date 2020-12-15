@@ -1,4 +1,4 @@
-## Research Interests
+## Self-Intro
 
 LI, Jin-Yang (李锦阳) is currently a PostDoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>

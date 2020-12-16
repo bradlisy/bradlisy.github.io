@@ -9,7 +9,7 @@ He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a
 Research Interests: <br>
 - **Smart Electromagnetic Dampers** <br>
 
-- **Smart Control and Reinforced Learning** <br>
+- **Smart Control and Reinforcement Learning** <br>
 
 ---
 

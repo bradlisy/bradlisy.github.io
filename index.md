@@ -8,10 +8,8 @@ He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a
 
 Research Interests: <br>
 - **Smart Electromagnetic Dampers** <br>
-Development of advanced electromagnetic dampers (EMD) capable of simultaneous energy harvesting and actuation features.<br>
-Self-powered active EMD.<br>
+
 - **Smart Control and Reinforced Learning** <br>
-Reinforced learning can be combined with smart dampers catering for complex structure or unknown inputs.
 
 ---
 

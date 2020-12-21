@@ -22,7 +22,7 @@ Research Interests: <br>
 ---
 
 ## Patent
-* Electromagnetic shunt dampers with adjustable mechanical behavior (一種力學行為可變的電磁分流阻尼器)<br>
+* Electromagnetic shunt dampers with adjustable mechanical behavior (一種力學行為可變的電磁分流阻尼器系統)<br>
 China Invention Patent No.: <a href="https://patents.google.com/patent/CN108317206B">CN108317206B </a>  Grant Date: 10 Dec 2019
 
 ---

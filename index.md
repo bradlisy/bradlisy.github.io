@@ -1,6 +1,6 @@
 ## Self-Intro
 
-LI, Jin-Yang (李锦阳) is currently a PostDoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
+LI, Jin-Yang (李錦陽) is currently a PostDoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
 He obtained both his Ph.D. (2020) and Bachalor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a> supervised by Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
@@ -22,7 +22,7 @@ Research Interests: <br>
 ---
 
 ## Patent
-* Electromagnetic shunt dampers with adjustable mechanical behavior (一种力学行为可变的电磁分流阻尼器)<br>
+* Electromagnetic shunt dampers with adjustable mechanical behavior (一種力學行為可變的電磁分流阻尼器)<br>
 China Invention Patent No.: <a href="https://patents.google.com/patent/CN108317206B">CN108317206B </a>  Grant Date: 10 Dec 2019
 
 ---

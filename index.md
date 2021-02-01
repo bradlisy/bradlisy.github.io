@@ -18,7 +18,7 @@ Research Interests: <br>
 * **Li JY**, Zhu S, and Shen J, "Enhance the damping density of eddy current and electromagnetic dampers", *Smart Structures and Systems*, 2019. [<a href="https://doi.org/10.12989/sss.2019.24.1.015">10.12989/sss.2019.24.1.015 </a>]
 * **Li JY** and Zhu S, "Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Converter", *IEEE / ASME Transactions on Mechatronics*, 2018. [<a href="https://ieeexplore.ieee.org/document/8309311">10.1109/TMECH.2018.2813307 </a>]
 * Shi X, Zhu S, **Li JY**, and Spencer BF, "Dynamic behavior of stay cables with passive negative stiffness dampers", *Smart Materials and Structures*, 2016. [<a href="https://iopscience.iop.org/article/10.1088/0964-1726/25/7/075044/meta">10.1088/0964-1726/25/7/075044/meta </a>]
-* Shi X, Zhao F, Yan Z, Zhu S, and **Li JY**, "High-performance vibration isolation technique using passive negative stiffness and semi-active damping", *Computer-Aided Civil and Infrastructure Engineering*, 2021. [Accepted]
+* Shi X, Zhao F, Yan Z, Zhu S, and **Li JY**, "High-performance vibration isolation technique using passive negative stiffness and semi-active damping", *Computer-Aided Civil and Infrastructure Engineering*, 2021.[<a href="https://iopscience.iop.org/article/10.1088/0964-1726/25/7/075044/meta">Accepted </a>]
 ---
 
 ## Patent

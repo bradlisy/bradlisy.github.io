@@ -14,7 +14,7 @@ Research Interests: <br>
 ---
 ## Journal
 * **Li JY** and Zhu S, "Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions",<span style="color:green"> *Mechanical System and Signal Processing*</span>, 2021. [<span style="color:blue"> Accepted </span>]
-* **Li JY** and Zhu S, "Self-powered Active Vibration Control: Concept, Modeling and Testing ",<span style="color:green"> *Engineering (Elsevier)*</span>, 2021.[<span style="color:red">Under Review</span>]
+* **Li JY** and Zhu S, "Self-powered Active Vibration Control: Concept, Modeling and Testing ",<span style="color:green"> *Engineering (Elsevier)*</span>, 2021.[<span style="color:blue"> Accepted </span>]
 * **Li JY** and Zhu S, "Advanced Base Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior ",<span style="color:green"> *Engineering Structures*</span>, 2021.[<span style="color:red">Under Review</span>]
 * **Li JY**, Zhu S, Shi X, and Shen W, "Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study",<span style="color:green"> *Journal of Structural Engineering*</span>, 2020. [<a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">10.1061/(ASCE)ST.1943-541X.0002477</a>]
 * **Li JY**, Zhu S, and Shen J, "Enhance the damping density of eddy current and electromagnetic dampers",<span style="color:green"> *Smart Structures and Systems*</span>, 2019.[<a href="https://doi.org/10.12989/sss.2019.24.1.015">2019. 10.12989/sss.2019.24.1.015</a>]

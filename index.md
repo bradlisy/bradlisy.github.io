@@ -13,38 +13,30 @@ Research Interests: <br>
 
 ---
 ## Journal
-* **Li JY** and Zhu S (2021)
-Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions<br>
-<span style="color:green">*Mechanical System and Signal Processing*</span> <br>
-[<a href="https://doi.org/10.1016/j.ymssp.2021.107822">10.1016/j.ymssp.2021.107822</a>]
 * **Li JY** and Zhu S (2021)<br>
-Self-powered Active Vibration Control: Concept, Modeling and Testing<br>
-<span style="color:green"> *Engineering*</span> <br>
-[<span style="color:blue"> Accepted </span>]
+<a href="https://doi.org/10.1016/j.ymssp.2021.107822">Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions</a><br>
+<span style="color:green">*Mechanical System and Signal Processing*</span><br>
 * **Li JY** and Zhu S (2021)<br>
-Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior<br>
+Self-powered Active Vibration Control: Concept, Modeling and Testing [<span style="color:blue"> Accepted </span>]<br>
+<span style="color:green"> *Engineering*</span><br>
+* **Li JY** and Zhu S (2021)<br>
+Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior [<span style="color:blue"> Accepted </span>]<br>
 <span style="color:green"> *Engineering Structures*</span> <br>
-[<span style="color:blue"> Accepted </span>]
 * **Li JY**, Zhu S, Shi X, and Shen W (2020)<br>
-Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study<br>
+<a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study</a><br>
 <span style="color:green"> *Journal of Structural Engineering*</span> <br>
-[<a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">10.1061/(ASCE)ST.1943-541X.0002477</a>]
 * **Li JY**, Zhu S, and Shen J (2019)<br>
-Enhance the damping density of eddy current and electromagnetic dampers<br>
+<a href="https://doi.org/10.12989/sss.2019.24.1.015">Enhance the damping density of eddy current and electromagnetic dampers</a><br>
 <span style="color:green"> *Smart Structures and Systems*</span> <br>
-[<a href="https://doi.org/10.12989/sss.2019.24.1.015">2019. 10.12989/sss.2019.24.1.015</a>]
 * **Li JY** and Zhu S (2018)<br>
-Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Converter<br>
+<a href="https://ieeexplore.ieee.org/document/8309311">Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Converter</a><br>
 <span style="color:green"> *IEEE / ASME Transactions on Mechatronics*</span> <br>
-[<a href="https://ieeexplore.ieee.org/document/8309311">10.1109/TMECH.2018.2813307</a>]
 * Shi X, Zhao F, Yan Z, Zhu S, and **Li JY** (2021)<br>
-High-performance vibration isolation technique using passive negative stiffness and semi-active damping<br>
+<a href="https://doi.org/10.1111/mice.12681">High-performance vibration isolation technique using passive negative stiffness and semi-active damping</a><br>
 <span style="color:green"> *Computer-Aided Civil and Infrastructure Engineering*</span> <br>
-[<a href="https://doi.org/10.1111/mice.12681">10.1111/mice.12681/meta</a>]
 * Shi X, Zhu S, **Li JY**, and Spencer BF (2016)<br>
-Dynamic behavior of stay cables with passive negative stiffness dampers<br>
+<a href="https://iopscience.iop.org/article/10.1088/0964-1726/25/7/075044/meta">Dynamic behavior of stay cables with passive negative stiffness dampers</a><br>
 <span style="color:green"> *Smart Materials and Structures*</span> <br>
-[<a href="https://iopscience.iop.org/article/10.1088/0964-1726/25/7/075044/meta">10.1088/0964-1726/25/7/075044/meta</a>]
 
 ---
 

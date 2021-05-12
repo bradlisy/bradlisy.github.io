@@ -16,10 +16,10 @@ Research Interests: <br>
 * **Li JY** and Zhu S (2021)<br>
 <a href="https://doi.org/10.1016/j.ymssp.2021.107822">Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions</a><br>
 <span style="color:green">*Mechanical System and Signal Processing*</span><br>
-* **Li JY** and Zhu S (2021)[<span style="color:blue"> Accepted </span>]<br>
+* **Li JY** and Zhu S (2021)[<span style="color:blue">Accepted</span>]<br>
 Self-powered Active Vibration Control: Concept, Modeling and Testing <br>
 <span style="color:green"> *Engineering*</span><br>
-* **Li JY** and Zhu S (2021)[<span style="color:blue"> Accepted </span>]<br>
+* **Li JY** and Zhu S (2021)[<span style="color:blue">Accepted</span>]<br>
 Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior<br>
 <span style="color:green"> *Engineering Structures*</span> <br>
 * **Li JY**, Zhu S, Shi X, and Shen W (2020)<br>

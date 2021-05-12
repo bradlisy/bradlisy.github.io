@@ -1,6 +1,6 @@
 ## Self-Intro
 
-LI, Jin-Yang (李錦陽) is currently a PostDoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
+LI, Jin-Yang (李錦陽) is currently a Postdoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
 He obtained both his Ph.D. (2020) and Bachelor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a> supervised by Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>

@@ -9,18 +9,18 @@ He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a
 Research Interests: <br>
 - **Smart Electromagnetic Dampers** <br>
 
-- **Data-driven Smart Control** <br>
+- **Data-driven Control** <br>
 
 ---
 ## Journal
 * **Li JY** and Zhu S (2021)<br>
 <a href="https://doi.org/10.1016/j.ymssp.2021.107822">Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions</a><br>
 <span style="color:green">*Mechanical System and Signal Processing*</span><br>
-* **Li JY** and Zhu S (2021)<br>
-Self-powered Active Vibration Control: Concept, Modeling and Testing [<span style="color:blue"> Accepted </span>]<br>
+* **Li JY** and Zhu S (2021)[<span style="color:blue"> Accepted </span>]<br>
+Self-powered Active Vibration Control: Concept, Modeling and Testing <br>
 <span style="color:green"> *Engineering*</span><br>
-* **Li JY** and Zhu S (2021)<br>
-Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior [<span style="color:blue"> Accepted </span>]<br>
+* **Li JY** and Zhu S (2021)[<span style="color:blue"> Accepted </span>]<br>
+Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior<br>
 <span style="color:green"> *Engineering Structures*</span> <br>
 * **Li JY**, Zhu S, Shi X, and Shen W (2020)<br>
 <a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study</a><br>

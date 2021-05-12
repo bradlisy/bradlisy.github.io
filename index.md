@@ -19,11 +19,11 @@ Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functio
 
 * **Li JY** and Zhu S (2021)<br>
 Self-powered Active Vibration Control: Concept, Modeling and Testing<br>
-<span style="color:green"> *Engineering*</span>[<span style="color:blue"> Accepted </span>]
+<span style="color:green"> *Engineering*</span> [<span style="color:blue"> Accepted </span>]
 
 * **Li JY** and Zhu S (2021)<br> 
 Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior<br>
-<span style="color:green"> *Engineering Structures*</span>[<span style="color:blue"> Accepted </span>]
+<span style="color:green"> *Engineering Structures*</span> [<span style="color:blue"> Accepted </span>]
 
 * **Li JY**, Zhu S, Shi X, and Shen W (2020)<br> 
 Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study<br>
@@ -31,7 +31,7 @@ Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale E
 
 * **Li JY**, Zhu S, and Shen J (2019)<br>
 Enhance the damping density of eddy current and electromagnetic dampers<br>
-<span style="color:green"> *Smart Structures and Systems*</span>[<a href="https://doi.org/10.12989/sss.2019.24.1.015">2019. 10.12989/sss.2019.24.1.015</a>]
+<span style="color:green"> *Smart Structures and Systems*</span> [<a href="https://doi.org/10.12989/sss.2019.24.1.015">2019. 10.12989/sss.2019.24.1.015</a>]
 
 * **Li JY** and Zhu S (2018)<br>
 Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Converter<br>
@@ -39,7 +39,7 @@ Versatile Behaviors of Electromagnetic Shunt Damper with a Negative Impedance Co
 
 * Shi X, Zhao F, Yan Z, Zhu S, and **Li JY** (2021)<br>
 High-performance vibration isolation technique using passive negative stiffness and semi-active damping<br>
-<span style="color:green"> *Computer-Aided Civil and Infrastructure Engineering*</span>[<a href="https://doi.org/10.1111/mice.12681">10.1111/mice.12681/meta</a>]
+<span style="color:green"> *Computer-Aided Civil and Infrastructure Engineering*</span> [<a href="https://doi.org/10.1111/mice.12681">10.1111/mice.12681/meta</a>]
 
 * Shi X, Zhu S, **Li JY**, and Spencer BF (2016)<br>
 Dynamic behavior of stay cables with passive negative stiffness dampers<br>

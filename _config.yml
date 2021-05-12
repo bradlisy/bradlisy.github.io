@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: LI, Jin-Yang
 github:
   is_project_page: false
-logo: "/JYL.jpg?raw=true"
+logo: "/Avatar_Github.png?raw=true"
 description: >
   RM ZN 910, CEE, Core Z <br>
   PolyU KLN Hong Kong<br>
@@ -11,4 +11,3 @@ description: >
   <a href="https://scholar.google.com.hk/citations?user=jNNMpKUAAAAJ&hl=en"> My Google Scholar </a>
   <br>
   <a href="https://orcid.org/0000-0001-6248-6737"> My ORCID Profile</a>
-

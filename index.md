@@ -48,7 +48,7 @@ China Invention Patent No.: <a href="https://patents.google.com/patent/CN1083172
 ## Awards
 * Postdoctoral Fellowship Matching Fund (2020)
 * Research Student Attachment Programme Scholarship (2017)
-* HKSAR Government Scholarship Fund – Reaching Out Award (ROA) (2016)
+* HKSAR Government Scholarship – Reaching Out Award (2016)
 * Ph.D. Scholarship (2014)
 * ICE Papers Competition - Award of Merit (Structural and Material section) (2014)
 * FCE Outbound Exchange Scholarship (2012)

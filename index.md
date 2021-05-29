@@ -20,7 +20,7 @@ Self-powered Active Vibration Control: Concept, Modeling and Testing <br>
 <a href="https://doi.org/10.1016/j.ymssp.2021.107822">Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions</a><br>
 <span style="color:green">*Mechanical System and Signal Processing*</span><br>
 * **Li JY** and Zhu S (2021)<br>
-<a href="https://doi.org/10.1016/j.engstruct.2021.112503">Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior<br>
+<a href="https://doi.org/10.1016/j.engstruct.2021.112503">Advanced Vibration Isolation Technique using Versatile Electromagnetic Shunt Damper with Tunable Behavior</a><br>
 <span style="color:green"> *Engineering Structures*</span> <br>
 * **Li JY**, Zhu S, Shi X, and Shen W (2020)<br>
 <a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0002477">Electromagnetic Shunt Damper for Bridge Cable Vibration Mitigation: Full-scale Experimental Study</a><br>

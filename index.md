@@ -14,7 +14,7 @@ Research Interests: <br>
 ---
 ## Journal
 * **Li JY** and Zhu S (2021)<br>
-<a href="https://doi.org/10.1016/j.ymssp.2021.107822">Self-powered Active Vibration Control: Concept, Modeling and Testing <br>
+<a href="https://doi.org/10.1016/j.ymssp.2021.107822">Self-powered Active Vibration Control: Concept, Modeling and Testing </a><br>
 <span style="color:green"> *Engineering*</span><br>
 * **Li JY** and Zhu S (2021)<br>
 <a href="https://doi.org/10.1016/j.ymssp.2021.107822">Tunable Electromagnetic Damper with Synthetic Impedance and Self-powered Functions</a><br>

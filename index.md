@@ -1,10 +1,10 @@
 ## Self-Intro
 
-LI, Jin-Yang (李錦陽) is currently a Postdoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
+I am currently a Postdoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
-He obtained both his Ph.D. (2020) and Bachelor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU </a> supervised by Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
+I receive both my Ph.D. (2020) and Bachelor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU</a>. My advisor is Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
-He exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-supervised by Prof. <a href="https://cee.illinois.edu/directory/profile/bfs">B.F. Spencer</a> between 2017-18.
+I exchange to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> between 2017-18. My co-advisor here is  co-supervised by Prof. <a href="https://cee.illinois.edu/directory/profile/bfs">B.F. Spencer</a> .
 
 Research Interests: <br>
 - **Smart Electromagnetic Dampers** <br>

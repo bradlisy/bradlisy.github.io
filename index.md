@@ -4,7 +4,7 @@ I am currently a Postdoc working with Prof. <a href="https://songyezhu.wixsite.c
 <br><br>
 I receive both my Ph.D. (2020) and Bachelor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU</a>. My advisor is Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
-I exchange to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> between 2017-18. My co-advisor here is  co-supervised by Prof. <a href="https://cee.illinois.edu/directory/profile/bfs">B.F. Spencer</a> .
+I exchange to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> between 2017-18. My co-advisor there is Prof. <a href="https://cee.illinois.edu/directory/profile/bfs">B.F. Spencer</a> .
 
 Research Interests: <br>
 - **Smart Electromagnetic Dampers** <br>

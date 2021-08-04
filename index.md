@@ -2,9 +2,9 @@
 
 I am currently a Postdoc working with Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
-I receive both my Ph.D. (2020) and Bachelor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU</a> under the supervision of  Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
+I received both my Ph.D. (2020) and Bachelor (2014) degrees from <a href="https://www.polyu.edu.hk/en/cee/"> CEE </a> @ <a href="https://polyu.edu.hk/"> PolyU</a> under the supervision of  Prof. <a href="https://songyezhu.wixsite.com/mysite">Songye ZHU</a>.
 <br><br>
-Between 2017-18, I exchange to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-advised by Prof. <a href="https://cee.illinois.edu/directory/profile/bfs">B.F. Spencer</a> .
+Between 2017-18, I exchanged to <a href="http://sstl.cee.illinois.edu/li_jinyang/"> SSTL team</a> @ <a href="https://illinois.edu/"> UIUC</a> co-advised by Prof. <a href="https://cee.illinois.edu/directory/profile/bfs">B.F. Spencer</a> .
 
 My Research Interests: <br>
 - **Smart Electromagnetic Dampers** <br>
